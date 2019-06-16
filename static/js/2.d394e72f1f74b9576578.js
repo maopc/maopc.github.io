@@ -1,0 +1,2 @@
+webpackJsonp([2],{FBzZ:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var o={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticStyle:{color:"white","margin-top":"40px"}},[this._v("Maopc demo1 based on Vue")])},staticRenderFns:[]};var r=n("VU/8")({data:function(){return{}},components:{},methods:{}},o,!1,function(e){n("MpW4")},null,null);t.default=r.exports},MpW4:function(e,t){}});
+//# sourceMappingURL=2.d394e72f1f74b9576578.js.map
